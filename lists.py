@@ -27,13 +27,13 @@ st.write("*  [Burns caused by hot tea](https://drive.google.com/file/d/1KYFVCY2n
 
 st.markdown("<h4>Ulcers</h4>",unsafe_allow_html=True)
 
-st.write("*  [Diabetic Ulcer](https://drive.google.com/file/d/1mRxcnRi0WIYLb_P7tHfJf9kQXIyayyxR/view?usp=drive_link)")
-st.write("*  [Diabetic Ulcer](https://drive.google.com/file/d/1aPBCI2IS7kf_WID9jhHa5JL4YY1etBDQ/view?usp=drive_link)")
+st.write("*  [Diabetic ulcer](https://drive.google.com/file/d/1mRxcnRi0WIYLb_P7tHfJf9kQXIyayyxR/view?usp=drive_link)")
+st.write("*  [Diabetic ulcer](https://drive.google.com/file/d/1aPBCI2IS7kf_WID9jhHa5JL4YY1etBDQ/view?usp=drive_link)")
 st.write("*  [Venous ulcer](https://drive.google.com/file/d/15QIOQI75Rg7utbU_txj65_HoItyk577b/view?usp=drive_link)")
 
 
 st.markdown("<h4>Others</h4>",unsafe_allow_html=True)  
-st.write("*  [ Diabetic Bedsore](https://drive.google.com/file/d/1zmb2KcWx3EUtlmEFg6lnYIGH58r7TYWr/view?usp=drive_link)")
+st.write("*  [ Diabetic bedsore](https://drive.google.com/file/d/1zmb2KcWx3EUtlmEFg6lnYIGH58r7TYWr/view?usp=drive_link)")
 st.write("*  [Gangreme](https://drive.google.com/file/d/1-9lpKWHe0aYUh7bJyCmWhg-I-c8jJiMq/view?usp=drive_link)")
 st.write("*  [Accident with industrial sugar cane crusher](https://drive.google.com/file/d/1ZS-QuaQeaAMN3cTLBIVaVPJbKHaZkGYM/view?usp=drive_link)")
 st.write("*  [Maggot infection](https://drive.google.com/file/d/1UpboXUcKa5yxpQABeqPTDOpOIWwqxsHJ/view?usp=drive_link)")
