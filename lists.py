@@ -22,7 +22,7 @@ st.write("*  [Burned arm by hot milk](https://drive.google.com/file/d/1ykzll03BU
 st.write("*  [Burned hand by hot oil](https://drive.google.com/file/d/1KQloOjlHgQaFVetH6ppAelA_569K21Lu/view?usp=drive_link)")
 st.write("*  [Burned arm by steam car radiator](https://drive.google.com/file/d/1UbebKHuo7KvqTcSvRzCJJynKoAxGz0Ky/view?usp=drive_link)")
 st.write("*  [Third degree burn from walking on hot stones in temple](https://drive.google.com/file/d/1KYFVCY2nmS8C-Li_GEnN3rZsaG0Oa8WU/view?usp=drive_link)")
-st.write("*  [Burns caused by hot tea](https://drive.google.com/file/d/1KYFVCY2nmS8C-Li_GEnN3rZsaG0Oa8WU/view?usp=drive_link)")
+st.write("*  [Burns caused by hot tea](https://drive.google.com/file/d/12PHT3MfpquVaucmvgX2uMmFt7USGiGDl/view?usp=drive_link)")
 
 
 st.markdown("<h4>Ulcers</h4>",unsafe_allow_html=True)
