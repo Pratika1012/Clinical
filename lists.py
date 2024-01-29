@@ -44,7 +44,9 @@ ulcers_scenarios=[
 ] 
 
 for scenario in ulcers_scenarios:
-    st.markdown(f"- [{scenario}](#{scenario.replace(' ', '-').lower()})")
+    pdf_link = f"[Download PDF](https://drive.google.com/file/d/1mRxcnRi0WIYLb_P7tHfJf9kQXIyayyxR/view?usp=drive_link{scenario.replace(' ', '-').lower()}.pdf)"
+    st.markdown(f"- [{scenario}]({pdf_link}) (#{scenario.replace(' ', '-').lower()})")
+    
 
     
 st.markdown("<h4>Others</h4>",unsafe_allow_html=True)
