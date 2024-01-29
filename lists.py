@@ -22,7 +22,7 @@ st.markdown("<h4>Burns</h4>",unsafe_allow_html=True)
 data=pd.read_excel("Case Studies.xlsx")
 data.columns = data.iloc[0]
 data = data[1:]
-List of burn scenarios
+#List of burn scenarios
 burn_scenarios = [
     "Burned Arm by hot milk",
     "Burned hand by hot oil",
